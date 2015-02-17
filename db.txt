@@ -1,0 +1,20 @@
+MAT207               Algebre pour ingenieurs I  3:30  4:45 3
+CSC521                 Artificial Intelligence  5:00  7:30 3
+GIN221         Introduction a la programmation  8:00 10:00 3
+GIN231    Structures de donnees et algorithmes 12:00  1:50 3
+GMC430                Resistance des Materiaux 11:00 12:50 2
+ARC403                 Esquisse d'architecture  9:30 12:50 2
+CSC215                          Programming II 11:00 12:15 3
+GCH310                        Chimie Organique 11:00 12:15 3
+ARC332                      Mecanique des sols 11:00 12:40 2
+GRT421          Traitement Numerique du Signal 11:00 12:15 3
+CSC320                        Database Systems  2:00  3:15 3
+GEN428                       Analyse Numerique 11:00 12:40 3
+ARC363            Suivi de stage professionnel  1:00  1:50 1
+CSC421                       Operating Systems  2:00  3:15 3
+MAT213                          Analyse reelle 11:00 12:15 3
+CSC359       Internet Development & Technology  5:00  6:15 3
+GRT557      Theorie de l'information et codage  9:30 10:45 3
+CSC417              Human Computer Interaction  9:30 10:45 3
+CSC211                        Discrete Methods  5:00  6:15 3
+ARC442                               Urbanisme  6:00  9:20 4
