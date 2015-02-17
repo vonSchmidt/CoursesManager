@@ -2,6 +2,7 @@
 -----------------
 
 A simple Java tool that:
+
     * Reads Course data from a Text File
     
     * Creates Course Objects
